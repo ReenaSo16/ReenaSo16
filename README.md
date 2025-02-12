@@ -63,10 +63,10 @@
 
 
 ## GitHub Stats
-![ReenaSo16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-214&show_icons=true&theme=radical)
+![ReenaSo16's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReenaSo16&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-214&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReenaSo16&layout=compact&theme=radical)
 
 Thanks for visiting my profile! 😊
 
