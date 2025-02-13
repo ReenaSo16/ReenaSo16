@@ -45,7 +45,7 @@
 ## 💼 Projects & Repositories  
 - 🔹 **[Ansible Automation](https://github.com/ReenaSo16/Ansible.git)** - Automating configurations and deployments using Ansible.  
 - 🔹 **[Infrastructure as Code (Terraform)](https://github.com/ReenaSo16/Terraform.git)** - Managing cloud infrastructure with Terraform.  
-- 🔹 **[Dockerized Node.js App Deployment](https://github.com/ReenaSo16/Python-Flask1.git)** - Deploying a flask app with Docker.  
+- 🔹 **[Dockerized flask App Deployment](https://github.com/ReenaSo16/Python-Flask1.git)** - Deploying a flask app with Docker.  
 
 ---
 
