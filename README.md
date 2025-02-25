@@ -38,7 +38,7 @@
 ## 🎓 Education  
 - 🎓 **Postgraduate in DevOps**
 - 🎓 **MCA - SNDT Women's University**    
-- 🎓 **BSc IT - Pillai HOC College**  
+- 🎓 **BSc IT - Pillai HOC College of Arts Commerce and Science**  
 
 ---
 
