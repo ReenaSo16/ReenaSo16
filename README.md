@@ -45,7 +45,7 @@
 
 ## 💼 Projects & Repositories  
 - 🔹 **[Jenkins CICD Pipeline deploy to EKS](https://github.com/ReenaSo16/DevOps-CICD-Amazon-Prime)** -  CI/CD pipeline using Jenkins to automate the deployment of an Amazon Prime Video on AWS EKS.  
-- 🔹 **[ Automated AWS infrastructure GitLab CI/CD]((https://gitlab.com/ReenaSo16/capstone-gitlab))** -  I automated AWS infrastructure provisioning using Terraform and GitLab CI/CD  
+- 🔹 **[Automated AWS infrastructure GitLab CI/CD]((https://gitlab.com/ReenaSo16/capstone-gitlab))** -  I automated AWS infrastructure provisioning using Terraform and GitLab CI/CD  
 - 🔹 **[Dockerized flask App Deployment](https://github.com/ReenaSo16/Python-Flask1.git)** - Deploying a flask app with Docker.  
 
 ---
