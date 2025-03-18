@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  Hi there! I'm <b>Reena Sonawale</b>, a passionate <b>DevOps Engineer</b> with expertise in cloud infrastructure, automation, and CI/CD pipelines. I specialize in bridging the gap between development and operations, ensuring smooth deployments and scalable architectures.
+  Hi there! I'm <b>Reena Sonawale</b>, a passionate <b>DevOps Engineer</b> with expertise in cloud infrastructure, automation, and CI/CD pipelines. My expertise includes AWS, Terraform, Ansible, Docker, Kubernetes (GKE), and Jenkins, Gitlab-CICD ,Github-Action along with scripting in Python and Shell. I specialize in bridging the gap between development and operations, ensuring smooth deployments and scalable architectures.
 </p>
 
 ---
@@ -31,7 +31,8 @@
 </p>
 
 - **AWS (Advanced)**: EC2, S3, IAM, Lambda, VPC, LoadBalancer, CloudFormation, **DynamoDB, RDS, CloudWatch**  
-- **GCP**: GKS (Google Kubernetes Service)  
+- **GCP**: GKS (Google Kubernetes Service)
+- *Azure**
 
 ---
 
@@ -43,8 +44,8 @@
 ---
 
 ## 💼 Projects & Repositories  
-- 🔹 **[Ansible Automation](https://github.com/ReenaSo16/Ansible.git)** - Automating configurations and deployments using Ansible.  
-- 🔹 **[Infrastructure as Code (Terraform)](https://github.com/ReenaSo16/Terraform.git)** - Managing cloud infrastructure with Terraform.  
+- 🔹 **[Jenkins CICD Pipeline deploy to EKS](https://github.com/ReenaSo16/DevOps-CICD-Amazon-Prime)** -  CI/CD pipeline using Jenkins to automate the deployment of an Amazon Prime Video on AWS EKS.  
+- 🔹 **[ Automated AWS infrastructure GitLab CI/CD]((https://gitlab.com/ReenaSo16/capstone-gitlab))** -  I automated AWS infrastructure provisioning using Terraform and GitLab CI/CD  
 - 🔹 **[Dockerized flask App Deployment](https://github.com/ReenaSo16/Python-Flask1.git)** - Deploying a flask app with Docker.  
 
 ---
