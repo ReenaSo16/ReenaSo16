@@ -1,4 +1,4 @@
-<h1 align="center">🚀 kajal Sonawale | DevOps Engineer</h1>
+<h1 align="center">🚀 Reena Sonawale | DevOps Engineer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer-blue" alt="DevOps Engineer">
